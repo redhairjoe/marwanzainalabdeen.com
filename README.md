@@ -1,2 +1,2 @@
 # marwanzainalabdeen.com
-shabbat shalom
+hello world
